@@ -1,18 +1,18 @@
-# 👨🏻‍💻 Professional Portfolio - Dean John Weiniger
+# 👨🏻‍💻 _Dean John Weiniger_
 <!--
 **DJW1080/DJW1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![Portfolio Image](./assets/images/portfolio-image-01sm.png)
 
-## 🚀 Experience
+## 🚀 _Experience_
 
 🧑‍💼 Over Two decades in the IT Industry.  
 👨🏻‍💻 Former Level 2 Technician – Swinburne University (2000–2017).  
 🏎️ Technical Consultant - My Car Storage (2015-2020).  
-🌱 Founder, Technification Incorporated.  
+🌱 Co-Founder, Technification Incorporated - lead programmer  
 🪑 Chairperson, Student Representative Council - Holmesglen institute.
 
-## 🎓 Qualifications
+## 🎓 _Qualifications_
 
 🌐 Microsoft Learn - <https://learn.microsoft.com/en-us/users/dean-john-weiniger>  
 🌐 Credly – <https://www.credly.com/users/dean-john-weiniger>  
@@ -26,27 +26,28 @@
 📜 Certificate I + II in Computer Systems.  
 📜 Certificate I + II in Electronics.
 
-## 🪛 Skills
+## 🪛 _Skills_
 
-⚡ PowerShell - Scripting and Windows Server administration.  
-⚡ Linux - secure system operations, and Wi-Fi chipset analysis.  
+⚡ PowerShell - task scripting and Windows Server administration.  
+⚡ Windows Server and Desktop expert.  
+⚡ Linux - secure system operations, and security analysis.  
 ⚡ Evidence-based troubleshooting and hardware diagnostics.  
 ⚡ Technical documentation and user-centred communication.  
 ⚡ Leadership and Community building.
 
-## ✨ Projects
+## ✨ _Projects_
 
-🌱 Founder of Technification Incorporated, a non-profit resolute in IT equality.  
-📝 [r/Technification](https://www.reddit.com/r/Technification/) - Technification Incorporated subreddit.  
-💬 [r/DeanTechChronicles](https://www.reddit.com/r/DeanTechChronicles/) - A blog about my time in IT Support.  
+🌱 [Technification Inc](https://technification.org.au/) - Non-profit resolute in IT equality.  
+📝 [r/Technification](https://www.reddit.com/r/Technification/) - Technification subreddit.  
+💬 [r/DeanTechChronicles](https://www.reddit.com/r/DeanTechChronicles/) - A life in IT Support.  
 
-## 🧪 Featured GitHub Projects
+## 🧪 _Featured GitHub Projects_
 
-🧰 [technification-ps-toolkit](https://github.com/DJW1080/technification-ps-toolkit) - PowerShell scripts for Windows maintenance and imaging.  
+🧰 [technification-ps-toolkit](https://github.com/DJW1080/technification-ps-toolkit) - Windows maintenance automation.  
 🌐 [website-verification-system](https://djw1080.github.io/website-verification-system/) - A trusted websites model for public-interest research.  
 💡 [tech-observatory](https://djw1080.github.io/tech-observatory/) - A curated library of independent research projects documenting technology.
 
-## 🤔 Professional Interests
+## 🤔 _Professional Interests_
 
 🤖 AI Automation.  
 🛡 IT Security.  
@@ -56,11 +57,11 @@
 💼 Startups & Entrepreneurship.  
 🕹️ Retro Gaming Electronic Repairs.
 
-## 🔗 Contact & Profiles
+## 🔗 _Contact & Profiles_
 
-🤝 Thanks for visiting my portfolio.  
-🧰 I’m always refining my toolkit and documenting the legacy of Technification.  
-📡 Feel free to explore the repos and reach out.
+🤝 Thanks for visiting.  
+🧰 I’m continually refining the Toolkit and documenting Technification.  
+📡 Feel free to explore and reach out.
 
 🌐 GitHub – DJW1080 (You are Here) <https://github.com/djw1080>  
 🌐 LinkedIn – <https://www.linkedin.com/in/dean-john-weiniger/>  
